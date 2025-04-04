@@ -33,7 +33,7 @@ The results of this project can be seen in `performance.ipynb`. This notebook tr
 
 Finally, the user cann play against the best agent, MCTS, in the  `play_against_mcts.ipynb` notebook.
 
-The games can be rendered during training using. 
+The games can be rendered during training adding env.render(state). 
 
 ## Project Structure
 ```
