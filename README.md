@@ -18,8 +18,7 @@ The project is composed of:
 
 1. Clone the repository:
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/6racuse/CheckersRL.git
 ```
 
 2. Install dependencies:
