@@ -1,6 +1,6 @@
 # Checkers Reinforcement Learning Project
 
-This project implements and evaluates reinforcement learning (RL) algorithms for playing Checkers (draughts). It includes implementations of Monte Carlo (MC) methods and Monte Carlo Tree Search (MCTS), integrated within a custom-built Checkers environment.
+This project implements and evaluates reinforcement learning (RL) algorithms for playing Checkers. It includes implementations of Monte Carlo (MC) methods and Monte Carlo Tree Search (MCTS), integrated within a custom-built Checkers environment. It is the iplementation of the RL project at CentraleSupélec.
 
 ## Project Overview
 
